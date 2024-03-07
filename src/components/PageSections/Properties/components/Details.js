@@ -8,7 +8,6 @@ import {
 } from '../../../../utils';
 import ExchangeRateServices from '../../../../services/ExchangeRateServices';
 import { iconsList } from '../../../Icons';
-import aboutMeImg from '../../../../assets/img/me/meFelipeOrias.jpg'
 
 
 const Details = ({ property }) => {

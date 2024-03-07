@@ -2,8 +2,7 @@ import React, { Fragment } from 'react';
 // import About from './components/About';
 import Section from '../../Section/Section';
 // import MeetingForm from '../../../components/Form/MeetingForm';
-import aboutMeImg from '../../../assets/img/me/meFelipeOrias.jpg'
-
+import aboutMeImg from '../../../assets/img/me/AllEstudio.jpg'
 
 const AboutComponent = () => {
   return (
@@ -19,7 +18,7 @@ const AboutComponent = () => {
             <img
               src={aboutMeImg}
               alt="about-img"
-              className="rounded-full shadow-lg h-[280px] w-[280px] mt-10 mx-20 md:mx-2 md:w-[300px] md:h-[300px] xl:w-[360px] xl:h-[360px] xl:my-10 xl:mx-20 hover:scale-110 duration-300"
+              className=" object-scale-down rounded-full shadow-lg h-[280px] w-[280px] mt-10 mx-20 md:mx-2 md:w-[300px] md:h-[300px] xl:w-[360px] xl:h-[360px] xl:my-10 xl:mx-20 hover:scale-110 duration-300"
             />
           </div>
           <div className="col-span-2 xl:col-span-1 ">
@@ -35,7 +34,7 @@ const AboutComponent = () => {
               <br />
             </p>
             <p className="text-lg xl:text-xl text-gray-700 mt-8 ml-0 xl:ml-1 md:text-center xl:text-left">
-              All.
+              Alejandra Lopez Latorre.
             </p>
             <p className="text-xl xl:text-xl text-gray-700 ml-0 xl:ml-1 md:text-center xl:text-left">
               Fundador y Gerente General de All Estudio.
