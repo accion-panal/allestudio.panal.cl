@@ -37,7 +37,7 @@ const AboutComponent = () => {
               Alejandra Lopez Latorre.
             </p>
             <p className="text-xl xl:text-xl text-gray-700 ml-0 xl:ml-1 md:text-center xl:text-left">
-              Fundador y Gerente General de All Estudio.
+             Directora de All Estudio.
             </p>
           </div>
         </div>
